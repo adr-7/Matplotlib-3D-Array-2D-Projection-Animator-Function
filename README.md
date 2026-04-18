@@ -1,6 +1,10 @@
 # Matplotlib-3D-Array-2D-Projection-Animator-Function
 Takes a 3D array and projects it onto a 2D slice of desired thickness, and then iterates that slice through the array to form an animation.
 
+
+https://github.com/user-attachments/assets/2ae5accf-fcfa-4d5c-a692-9cbadada25db
+
+
 The first three function variables are required. StackRangeAnimation(dataset,x,y,thickness) where dataset is the desired 3D array, x is the start range, y is the end, and thickness describes the width of the plane that is iterated through the array.
 - Example: StackRangeAnimation(density,1,512,20)
     
