@@ -2,7 +2,7 @@
 Takes a 3D array and projects it onto a 2D slice of desired thickness, and then iterates that slice through the array to form an animation.
 
 
-https://github.com/user-attachments/assets/2ae5accf-fcfa-4d5c-a692-9cbadada25db
+https://github.com/user-attachments/assets/b5c00256-5d06-464a-956a-2419227c1281
 
 
 The first three function variables are required. StackRangeAnimation(dataset,x,y,thickness) where dataset is the desired 3D array, x is the start range, y is the end, and thickness describes the width of the plane that is iterated through the array.
